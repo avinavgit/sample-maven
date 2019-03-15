@@ -64,4 +64,10 @@
       </plugins>
     </pluginManagement>
   </build>
+    <repositories>
+    <repository>
+      <id>my-nexus</id>
+      <url>http://dc1tdctl01:8081/repository/maven-central/</url>
+    </repository>
+  </repositories>
 </project>
