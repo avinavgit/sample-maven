@@ -6,7 +6,7 @@
 
   <groupId>com.sahumills</groupId>
   <artifactId>pebble</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.7</version>
   <packaging>war</packaging>
 
   <name>pebble Maven Webapp</name>
